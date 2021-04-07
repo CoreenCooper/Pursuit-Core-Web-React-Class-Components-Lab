@@ -1,7 +1,7 @@
 import React from "react";
-import "./App.css";
 import ContactList from "./ContactList";
 import Feed from "./Feed";
+import "./App.css";
 
 // class component /////
 class App extends React.Component {

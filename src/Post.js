@@ -7,6 +7,8 @@ const postInfo = {
   description: "This is the description of the post",
 };
 
+// class component ///////////////
+
 class Post extends React.Component {
   constructor() {
     super();
